@@ -1,0 +1,13 @@
+/root/Documents/CodesSystem/CSharp/Assignments/ReverseArray/bin/Debug/netcoreapp3.1/ReverseArray
+/root/Documents/CodesSystem/CSharp/Assignments/ReverseArray/bin/Debug/netcoreapp3.1/ReverseArray.deps.json
+/root/Documents/CodesSystem/CSharp/Assignments/ReverseArray/bin/Debug/netcoreapp3.1/ReverseArray.runtimeconfig.json
+/root/Documents/CodesSystem/CSharp/Assignments/ReverseArray/bin/Debug/netcoreapp3.1/ReverseArray.runtimeconfig.dev.json
+/root/Documents/CodesSystem/CSharp/Assignments/ReverseArray/bin/Debug/netcoreapp3.1/ReverseArray.dll
+/root/Documents/CodesSystem/CSharp/Assignments/ReverseArray/bin/Debug/netcoreapp3.1/ReverseArray.pdb
+/root/Documents/CodesSystem/CSharp/Assignments/ReverseArray/obj/Debug/netcoreapp3.1/ReverseArray.csprojAssemblyReference.cache
+/root/Documents/CodesSystem/CSharp/Assignments/ReverseArray/obj/Debug/netcoreapp3.1/ReverseArray.csproj.CoreCompileInputs.cache
+/root/Documents/CodesSystem/CSharp/Assignments/ReverseArray/obj/Debug/netcoreapp3.1/ReverseArray.AssemblyInfoInputs.cache
+/root/Documents/CodesSystem/CSharp/Assignments/ReverseArray/obj/Debug/netcoreapp3.1/ReverseArray.AssemblyInfo.cs
+/root/Documents/CodesSystem/CSharp/Assignments/ReverseArray/obj/Debug/netcoreapp3.1/ReverseArray.dll
+/root/Documents/CodesSystem/CSharp/Assignments/ReverseArray/obj/Debug/netcoreapp3.1/ReverseArray.pdb
+/root/Documents/CodesSystem/CSharp/Assignments/ReverseArray/obj/Debug/netcoreapp3.1/ReverseArray.genruntimeconfig.cache

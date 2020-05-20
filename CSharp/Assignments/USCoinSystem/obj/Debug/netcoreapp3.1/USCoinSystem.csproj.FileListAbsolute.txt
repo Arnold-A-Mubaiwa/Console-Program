@@ -1,0 +1,13 @@
+/root/Documents/CodesSystem/CSharp/Assignments/USCoinSystem/obj/Debug/netcoreapp3.1/USCoinSystem.csprojAssemblyReference.cache
+/root/Documents/CodesSystem/CSharp/Assignments/USCoinSystem/obj/Debug/netcoreapp3.1/USCoinSystem.csproj.CoreCompileInputs.cache
+/root/Documents/CodesSystem/CSharp/Assignments/USCoinSystem/obj/Debug/netcoreapp3.1/USCoinSystem.AssemblyInfoInputs.cache
+/root/Documents/CodesSystem/CSharp/Assignments/USCoinSystem/obj/Debug/netcoreapp3.1/USCoinSystem.AssemblyInfo.cs
+/root/Documents/CodesSystem/CSharp/Assignments/USCoinSystem/bin/Debug/netcoreapp3.1/USCoinSystem
+/root/Documents/CodesSystem/CSharp/Assignments/USCoinSystem/bin/Debug/netcoreapp3.1/USCoinSystem.deps.json
+/root/Documents/CodesSystem/CSharp/Assignments/USCoinSystem/bin/Debug/netcoreapp3.1/USCoinSystem.runtimeconfig.json
+/root/Documents/CodesSystem/CSharp/Assignments/USCoinSystem/bin/Debug/netcoreapp3.1/USCoinSystem.runtimeconfig.dev.json
+/root/Documents/CodesSystem/CSharp/Assignments/USCoinSystem/bin/Debug/netcoreapp3.1/USCoinSystem.dll
+/root/Documents/CodesSystem/CSharp/Assignments/USCoinSystem/bin/Debug/netcoreapp3.1/USCoinSystem.pdb
+/root/Documents/CodesSystem/CSharp/Assignments/USCoinSystem/obj/Debug/netcoreapp3.1/USCoinSystem.dll
+/root/Documents/CodesSystem/CSharp/Assignments/USCoinSystem/obj/Debug/netcoreapp3.1/USCoinSystem.pdb
+/root/Documents/CodesSystem/CSharp/Assignments/USCoinSystem/obj/Debug/netcoreapp3.1/USCoinSystem.genruntimeconfig.cache
