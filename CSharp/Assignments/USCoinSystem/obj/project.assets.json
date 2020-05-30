@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/root/Documents/CodesSystem/CSharp/Assignments/USCoinSystem/USCoinSystem.csproj",
+      "projectUniqueName": "/root/Documents/Console-Program/CSharp/Assignments/USCoinSystem/USCoinSystem.csproj",
       "projectName": "USCoinSystem",
-      "projectPath": "/root/Documents/CodesSystem/CSharp/Assignments/USCoinSystem/USCoinSystem.csproj",
+      "projectPath": "/root/Documents/Console-Program/CSharp/Assignments/USCoinSystem/USCoinSystem.csproj",
       "packagesPath": "/root/.nuget/packages/",
-      "outputPath": "/root/Documents/CodesSystem/CSharp/Assignments/USCoinSystem/obj/",
+      "outputPath": "/root/Documents/Console-Program/CSharp/Assignments/USCoinSystem/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/root/.nuget/NuGet/NuGet.Config"

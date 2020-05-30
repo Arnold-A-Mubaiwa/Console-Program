@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace USCoinSystem
  {
@@ -32,6 +33,7 @@ namespace USCoinSystem
     class Program {
         static void Main (string[] args) {
             ComputeMaximum getMax = new ComputeMaximum ();
+            string done ="WE ARE DONE";
              excecute:
             try {
                
@@ -46,6 +48,9 @@ namespace USCoinSystem
             } catch (System.Exception) {
                 Console.WriteLine ("INVALID VALUE!! Please enter an \"INTEGER\"\n");
                 goto excecute;
+            }
+            finally{
+                File.WriteAllText("test.txt",done );
             }
         }
     }
