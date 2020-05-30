@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/root/Documents/CodesSystem/CSharp/Assignments/GradesFinalAverage/GradesFinalAverage.csproj",
+      "projectUniqueName": "/root/Documents/Console-Program/CSharp/Assignments/GradesFinalAverage/GradesFinalAverage.csproj",
       "projectName": "GradesFinalAverage",
-      "projectPath": "/root/Documents/CodesSystem/CSharp/Assignments/GradesFinalAverage/GradesFinalAverage.csproj",
+      "projectPath": "/root/Documents/Console-Program/CSharp/Assignments/GradesFinalAverage/GradesFinalAverage.csproj",
       "packagesPath": "/root/.nuget/packages/",
-      "outputPath": "/root/Documents/CodesSystem/CSharp/Assignments/GradesFinalAverage/obj/",
+      "outputPath": "/root/Documents/Console-Program/CSharp/Assignments/GradesFinalAverage/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/root/.nuget/NuGet/NuGet.Config"

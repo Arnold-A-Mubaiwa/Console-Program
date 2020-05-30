@@ -11,3 +11,16 @@
 /root/Documents/CodesSystem/CSharp/Assignments/GradesFinalAverage/obj/Debug/netcoreapp3.1/GradesFinalAverage.dll
 /root/Documents/CodesSystem/CSharp/Assignments/GradesFinalAverage/obj/Debug/netcoreapp3.1/GradesFinalAverage.pdb
 /root/Documents/CodesSystem/CSharp/Assignments/GradesFinalAverage/obj/Debug/netcoreapp3.1/GradesFinalAverage.genruntimeconfig.cache
+/root/Documents/Console-Program/CSharp/Assignments/GradesFinalAverage/bin/Debug/netcoreapp3.1/GradesFinalAverage
+/root/Documents/Console-Program/CSharp/Assignments/GradesFinalAverage/bin/Debug/netcoreapp3.1/GradesFinalAverage.deps.json
+/root/Documents/Console-Program/CSharp/Assignments/GradesFinalAverage/bin/Debug/netcoreapp3.1/GradesFinalAverage.runtimeconfig.json
+/root/Documents/Console-Program/CSharp/Assignments/GradesFinalAverage/bin/Debug/netcoreapp3.1/GradesFinalAverage.runtimeconfig.dev.json
+/root/Documents/Console-Program/CSharp/Assignments/GradesFinalAverage/bin/Debug/netcoreapp3.1/GradesFinalAverage.dll
+/root/Documents/Console-Program/CSharp/Assignments/GradesFinalAverage/bin/Debug/netcoreapp3.1/GradesFinalAverage.pdb
+/root/Documents/Console-Program/CSharp/Assignments/GradesFinalAverage/obj/Debug/netcoreapp3.1/GradesFinalAverage.csprojAssemblyReference.cache
+/root/Documents/Console-Program/CSharp/Assignments/GradesFinalAverage/obj/Debug/netcoreapp3.1/GradesFinalAverage.csproj.CoreCompileInputs.cache
+/root/Documents/Console-Program/CSharp/Assignments/GradesFinalAverage/obj/Debug/netcoreapp3.1/GradesFinalAverage.AssemblyInfoInputs.cache
+/root/Documents/Console-Program/CSharp/Assignments/GradesFinalAverage/obj/Debug/netcoreapp3.1/GradesFinalAverage.AssemblyInfo.cs
+/root/Documents/Console-Program/CSharp/Assignments/GradesFinalAverage/obj/Debug/netcoreapp3.1/GradesFinalAverage.dll
+/root/Documents/Console-Program/CSharp/Assignments/GradesFinalAverage/obj/Debug/netcoreapp3.1/GradesFinalAverage.pdb
+/root/Documents/Console-Program/CSharp/Assignments/GradesFinalAverage/obj/Debug/netcoreapp3.1/GradesFinalAverage.genruntimeconfig.cache
