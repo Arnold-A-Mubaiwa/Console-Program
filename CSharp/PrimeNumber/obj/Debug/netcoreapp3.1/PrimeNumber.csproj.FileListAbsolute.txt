@@ -1,0 +1,13 @@
+/root/Documents/Console-Program/CSharp/PrimeNumber/obj/Debug/netcoreapp3.1/PrimeNumber.csprojAssemblyReference.cache
+/root/Documents/Console-Program/CSharp/PrimeNumber/obj/Debug/netcoreapp3.1/PrimeNumber.AssemblyInfoInputs.cache
+/root/Documents/Console-Program/CSharp/PrimeNumber/obj/Debug/netcoreapp3.1/PrimeNumber.AssemblyInfo.cs
+/root/Documents/Console-Program/CSharp/PrimeNumber/obj/Debug/netcoreapp3.1/PrimeNumber.csproj.CoreCompileInputs.cache
+/root/Documents/Console-Program/CSharp/PrimeNumber/bin/Debug/netcoreapp3.1/PrimeNumber
+/root/Documents/Console-Program/CSharp/PrimeNumber/bin/Debug/netcoreapp3.1/PrimeNumber.deps.json
+/root/Documents/Console-Program/CSharp/PrimeNumber/bin/Debug/netcoreapp3.1/PrimeNumber.runtimeconfig.json
+/root/Documents/Console-Program/CSharp/PrimeNumber/bin/Debug/netcoreapp3.1/PrimeNumber.runtimeconfig.dev.json
+/root/Documents/Console-Program/CSharp/PrimeNumber/bin/Debug/netcoreapp3.1/PrimeNumber.dll
+/root/Documents/Console-Program/CSharp/PrimeNumber/bin/Debug/netcoreapp3.1/PrimeNumber.pdb
+/root/Documents/Console-Program/CSharp/PrimeNumber/obj/Debug/netcoreapp3.1/PrimeNumber.dll
+/root/Documents/Console-Program/CSharp/PrimeNumber/obj/Debug/netcoreapp3.1/PrimeNumber.pdb
+/root/Documents/Console-Program/CSharp/PrimeNumber/obj/Debug/netcoreapp3.1/PrimeNumber.genruntimeconfig.cache
