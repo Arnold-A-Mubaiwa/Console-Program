@@ -31,15 +31,16 @@ namespace Palindrome
             Array.Reverse(stringToArray);
             string NumReversed = new string(stringToArray);
             int stringToNum = Convert.ToInt32(NumReversed);
+
             if (stringToNum == number)
             {
                 Console.WriteLine(stringToNum);
-                Console.WriteLine("Palindrome");
+                Console.WriteLine("Palindrome Number");
             }
             else
             {
                 Console.WriteLine(NumReversed);
-                Console.WriteLine("Not Palindrome");
+                Console.WriteLine("Not Palindrome Number");
             }
         }
     }
