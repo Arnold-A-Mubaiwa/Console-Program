@@ -1,0 +1,13 @@
+/root/Documents/Console-Program/CSharp/Palindrome/obj/Debug/netcoreapp3.1/Palindrome.csprojAssemblyReference.cache
+/root/Documents/Console-Program/CSharp/Palindrome/obj/Debug/netcoreapp3.1/Palindrome.AssemblyInfoInputs.cache
+/root/Documents/Console-Program/CSharp/Palindrome/obj/Debug/netcoreapp3.1/Palindrome.AssemblyInfo.cs
+/root/Documents/Console-Program/CSharp/Palindrome/obj/Debug/netcoreapp3.1/Palindrome.csproj.CoreCompileInputs.cache
+/root/Documents/Console-Program/CSharp/Palindrome/bin/Debug/netcoreapp3.1/Palindrome
+/root/Documents/Console-Program/CSharp/Palindrome/bin/Debug/netcoreapp3.1/Palindrome.deps.json
+/root/Documents/Console-Program/CSharp/Palindrome/bin/Debug/netcoreapp3.1/Palindrome.runtimeconfig.json
+/root/Documents/Console-Program/CSharp/Palindrome/bin/Debug/netcoreapp3.1/Palindrome.runtimeconfig.dev.json
+/root/Documents/Console-Program/CSharp/Palindrome/bin/Debug/netcoreapp3.1/Palindrome.dll
+/root/Documents/Console-Program/CSharp/Palindrome/bin/Debug/netcoreapp3.1/Palindrome.pdb
+/root/Documents/Console-Program/CSharp/Palindrome/obj/Debug/netcoreapp3.1/Palindrome.dll
+/root/Documents/Console-Program/CSharp/Palindrome/obj/Debug/netcoreapp3.1/Palindrome.pdb
+/root/Documents/Console-Program/CSharp/Palindrome/obj/Debug/netcoreapp3.1/Palindrome.genruntimeconfig.cache
