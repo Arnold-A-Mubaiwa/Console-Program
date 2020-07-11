@@ -1,5 +1,6 @@
 import java.util.Scanner;
-class ATM{
+
+public class ATM{
 	static	Double BankBalance=2400.0;
 
  	void checkBalance(){
@@ -61,5 +62,6 @@ class ATM{
 		else{
 			atm.checkBalance();
 		}
+		scan.close();
 	}
 }
