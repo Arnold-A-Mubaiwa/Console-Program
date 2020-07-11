@@ -4,7 +4,7 @@ class CarBrands {
     Scanner s = new Scanner(System.in);
     public int BestK, SecondBestK, LeastBestK;
     public String Best, SecondBest, LeastBest;
-
+    int answer;
     public void getBestCars() {
         HashMap<Integer, String> CarModels = new HashMap<Integer, String>();
         CarModels.put(1, "BMW");
@@ -17,11 +17,21 @@ class CarBrands {
         BestK = s.nextInt();
         Best = CarModels.get(BestK);
         System.out.print("Secord Best :");
-        SecondBestK= s.nextInt();
+        SecondBestK = s.nextInt();
         SecondBest = CarModels.get(SecondBestK);
         System.out.print("Least Best :");
         LeastBestK = s.nextInt();
         LeastBest = CarModels.get(LeastBestK);
+    }
+
+    public void ac(String key, int value,String car) {
+        System.out.print("What is the " + key + " of "+ car + " : ");
+        answer = s.nextInt();
+        if (answer == value) {
+            System.out.println("Your Answer is correct");
+        } else {
+            System.out.println("Your Answer is incorrect. The corrent answer is " + value);
+        }
     }
 
     public void CarQuestions() {
@@ -44,69 +54,42 @@ class CarBrands {
         Toyota.put("Engine Capacity", 154);
         Toyota.put("Built year", 42);
         Toyota.put("Rob", 733);
-        int answer;
+       
         String Ranks[] = { Best, SecondBest, LeastBest };
         for (int c = 0; c < Ranks.length; c++) {
             String currentRank = Ranks[c];
             switch (currentRank) {
                 case "BMW":
-                    for (Map.Entry mapElement : BMW.entrySet()) {
+                    for (Map.Entry<String,Integer> mapElement : BMW.entrySet()) {
                         String key = (String) mapElement.getKey();
-                        int value = ((int) mapElement.getValue() + 10);
-                        System.out.print("What is the " + key + " of BMW : ");
-                        answer = s.nextInt();
-                        if (answer == value) {
-                            System.out.println("Your Answer is correct");
-                        } else {
-                            System.out.println("Your Answer is incorrect. The corrent answer is " + value);
-                        }
+                        int value = ((int) mapElement.getValue());
+                        ac(key,value,currentRank);
                     }
                     break;
                 case "VW":
-                    for (Map.Entry mapElement : VW.entrySet()) {
+                    for (Map.Entry<String,Integer> mapElement : VW.entrySet()) {
                         String key = (String) mapElement.getKey();
-                        int value = ((int) mapElement.getValue() + 10);
-                        System.out.print("What is the " + key + " of VW : ");
-                        answer = s.nextInt();
-                        if (answer == value) {
-                            System.out.println("Your Answer is correct");
-                        } else {
-                            System.out.println("Your Answer is incorrect. The corrent answer is " + value);
-                        }
+                        int value = ((int) mapElement.getValue());
+                        ac(key,value,currentRank);
                     }
                     break;
                 case "Benz":
-                    for (Map.Entry mapElement : Benz.entrySet()) {
+                    for (Map.Entry<String,Integer> mapElement : Benz.entrySet()) {
                         String key = (String) mapElement.getKey();
-                        int value = ((int) mapElement.getValue() + 10);
-                        System.out.print("What is the " + key + " of Benz : ");
-                        answer = s.nextInt();
-                        if (answer == value) {
-                            System.out.println("Your Answer is correct");
-                        } else {
-                            System.out.println("Your Answer is incorrect. The corrent answer is " + value);
-                        }
+                        int value = ((int) mapElement.getValue());
+                        ac(key,value,currentRank);
                     }
                     break;
                 case "Toyota":
-                for (Map.Entry mapElement : Toyota.entrySet()) { 
-                    String key = (String)mapElement.getKey(); 
-                     int value = ((int)mapElement.getValue() + 10); 
-                     System.out.print("What is the "+key+" of Toyota : "); 
-                     answer= s.nextInt();
-                     if (answer == value) {
-                         System.out.println("Your Answer is correct");
-                     }else{
-                         System.out.println("Your Answer is incorrect. The corrent answer is "+ value);
-                     }
-                 } 
-                    break;
-                default:
+                    for (Map.Entry<String,Integer> mapElement : Toyota.entrySet()) {
+                        String key = (String) mapElement.getKey();
+                        int value = ((int) mapElement.getValue());
+                        ac(key,value,currentRank);
+                    }
                     break;
             }
-            
-
-        }s.close();
+        }
+        s.close();
     }
 }
 
