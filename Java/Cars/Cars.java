@@ -10,7 +10,7 @@ class CarBrands {
     int incorrect = 0;
 
     public void getBestCars() {
-        final HashMap<Integer, String> CarModels = new HashMap<Integer, String>();
+        final var CarModels = new HashMap<Integer, String>();
         CarModels.put(1, "Honda");
         CarModels.put(2, "Hyundai");
         CarModels.put(3, "Benz");
@@ -43,13 +43,14 @@ class CarBrands {
                 // System.out.println("=====================================================");
                 // System.out.println("Your Answer is correct");
                 System.out.println("=====================================================\n");
-                JOptionPane.showMessageDialog(null,"Your Answer is correct" );
+                JOptionPane.showMessageDialog(null, "Your Answer is correct");
                 correct += 1;
             } else {
                 // System.out.println("=====================================================");
-                // System.out.println("Your Answer is incorrect. The corrent answer is " + value);
+                // System.out.println("Your Answer is incorrect. The corrent answer is " +
+                // value);
                 System.out.println("=====================================================\n");
-                JOptionPane.showMessageDialog(null,"Your Answer is incorrect. The corrent answer is " + value);
+                JOptionPane.showMessageDialog(null, "Your Answer is incorrect. The corrent answer is " + value);
                 incorrect += 1;
             }
         } catch (final Exception e) {
@@ -58,25 +59,27 @@ class CarBrands {
     }
 
     public void CarQuestions() {
-        final HashMap<String, Boolean> Honda = new HashMap<String, Boolean>();
+        final var Honda = new HashMap<String, Boolean>();
         Honda.put("Your Honda car should be serviced every 12 months or 12500 miles, whichever is sooner.", true);
         Honda.put(" Honda OHV stands for Overhead value.", true);
         Honda.put(" Honda OHC stands for Overhead Company", false);
         Honda.put("Your Honda warranty is based on when your Honda engine was originally sold.", true);
 
-        final HashMap<String, Boolean> Hyundai = new HashMap<String, Boolean>();
+        final var Hyundai = new HashMap<String, Boolean>();
         Hyundai.put("Hyundai was founded in 1967 by Chung Ju-yung.", true);
         Hyundai.put("The first Hyundai Accet was introduced in 1995.", false);
         Hyundai.put("The pony was South Korea’s first mass-produced and exported Hyundai.", true);
-        Hyundai.put("The first car that Hyundai sold in the US was the 1986 Hyundai Excel, a subcompact four door hatchback or sedan.", true);
-        
-        final HashMap<String, Boolean> Benz = new HashMap<String, Boolean>();
+        Hyundai.put(
+                "The first car that Hyundai sold in the US was the 1986 Hyundai Excel, a subcompact four door hatchback or sedan.",
+                true);
+
+        final var Benz = new HashMap<String, Boolean>();
         Benz.put("Benz allows to book a test drive.", true);
         Benz.put("Benz has a smart key feature.", true);
         Benz.put("Benz originates from South Africa", false);
         Benz.put("Benz's co-founder is Ms Maart", false);
 
-        final HashMap<String, Boolean> Toyota = new HashMap<String, Boolean>();
+        final var Toyota = new HashMap<String, Boolean>();
         Toyota.put("Toyota Motor company was established in?", true);
         Toyota.put("The first generation of Hilux started production in 1968. ", true);
         Toyota.put("Toyota has a smart key feature.", true);
@@ -86,8 +89,7 @@ class CarBrands {
         System.out.println("=====================================================");
         System.out.println("==   ANSWER THE FOLLOWING WITH EITHER true/false   ==");
         System.out.println("=====================================================\n");
-        for (int c = 0; c < Ranks.length; c++) {
-            final String currentRank = Ranks[c];
+        for (final String currentRank : Ranks) {
             switch (currentRank) {
                 case "Honda":
                     for (final Map.Entry<String, Boolean> mapElement : Honda.entrySet()) {
@@ -126,16 +128,16 @@ class CarBrands {
         System.out.println("\n=====================================================");
         System.out.println("Below are the marks obtained");
         System.out.println("=====================================================");
-        System.out.format("%8s%18s%18s", "Correct", "Incorrect","Total\n");
-        final int total = correct+incorrect;
-        System.out.format("%3d%18d%18d", correct, incorrect,total);
+        System.out.format("%8s%18s%18s", "Correct", "Incorrect", "Total\n");
+        final int total = correct + incorrect;
+        System.out.format("%3d%18d%18d", correct, incorrect, total);
         System.out.println();
     }
 }
 
 public class Cars {
     public static void main(final String[] args) {
-        final CarBrands car = new CarBrands();
+        final var car = new CarBrands();
         car.getBestCars();
         car.CarQuestions();
         car.getTotal();
