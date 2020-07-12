@@ -1,5 +1,5 @@
 import java.util.*;
-import javax.swing.JOptionPane;
+// import javax.swing.JOptionPane;
 class CarBrands {
     Scanner s = new Scanner(System.in);
 
@@ -40,17 +40,17 @@ class CarBrands {
             System.out.print(key + " : ");
             answer = s.nextBoolean();
             if (answer == value) {
-                // System.out.println("=====================================================");
-                // System.out.println("Your Answer is correct");
+                System.out.println("=====================================================");
+                System.out.println("Your Answer is correct");
                 System.out.println("=====================================================\n");
-                JOptionPane.showMessageDialog(null, "Your Answer is correct");
+                // JOptionPane.showMessageDialog(null, "Your Answer is correct");
                 correct += 1;
             } else {
-                // System.out.println("=====================================================");
-                // System.out.println("Your Answer is incorrect. The corrent answer is " +
-                // value);
+                System.out.println("=====================================================");
+                System.out.println("Your Answer is incorrect. The corrent answer is " +
+                value);
                 System.out.println("=====================================================\n");
-                JOptionPane.showMessageDialog(null, "Your Answer is incorrect. The corrent answer is " + value);
+                // JOptionPane.showMessageDialog(null, "Your Answer is incorrect. The corrent answer is " + value);
                 incorrect += 1;
             }
         } catch (final Exception e) {
