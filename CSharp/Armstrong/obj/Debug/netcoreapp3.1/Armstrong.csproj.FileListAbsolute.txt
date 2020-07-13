@@ -1,0 +1,13 @@
+/root/Documents/Console-Program/CSharp/Armstrong/bin/Debug/netcoreapp3.1/Armstrong
+/root/Documents/Console-Program/CSharp/Armstrong/bin/Debug/netcoreapp3.1/Armstrong.deps.json
+/root/Documents/Console-Program/CSharp/Armstrong/bin/Debug/netcoreapp3.1/Armstrong.runtimeconfig.json
+/root/Documents/Console-Program/CSharp/Armstrong/bin/Debug/netcoreapp3.1/Armstrong.runtimeconfig.dev.json
+/root/Documents/Console-Program/CSharp/Armstrong/bin/Debug/netcoreapp3.1/Armstrong.dll
+/root/Documents/Console-Program/CSharp/Armstrong/bin/Debug/netcoreapp3.1/Armstrong.pdb
+/root/Documents/Console-Program/CSharp/Armstrong/obj/Debug/netcoreapp3.1/Armstrong.csprojAssemblyReference.cache
+/root/Documents/Console-Program/CSharp/Armstrong/obj/Debug/netcoreapp3.1/Armstrong.AssemblyInfoInputs.cache
+/root/Documents/Console-Program/CSharp/Armstrong/obj/Debug/netcoreapp3.1/Armstrong.AssemblyInfo.cs
+/root/Documents/Console-Program/CSharp/Armstrong/obj/Debug/netcoreapp3.1/Armstrong.csproj.CoreCompileInputs.cache
+/root/Documents/Console-Program/CSharp/Armstrong/obj/Debug/netcoreapp3.1/Armstrong.dll
+/root/Documents/Console-Program/CSharp/Armstrong/obj/Debug/netcoreapp3.1/Armstrong.pdb
+/root/Documents/Console-Program/CSharp/Armstrong/obj/Debug/netcoreapp3.1/Armstrong.genruntimeconfig.cache
