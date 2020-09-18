@@ -1,2 +1,2 @@
 # Console-Program
-Small console programmes
+Small console programs
